@@ -27,14 +27,14 @@ apis:
     properties:
       - type: Documentation
         url: https://serverlessworkflow.io/docs/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://serverlessworkflow.io/docs/getting-started/
 common:
   - type: Website
     url: https://serverlessworkflow.io/
   - type: Documentation
     url: https://serverlessworkflow.io/docs/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/serverlessworkflow
 maintainers:
   - FN: Kin Lane
