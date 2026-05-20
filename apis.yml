@@ -30,6 +30,8 @@ apis:
       - type: GettingStarted
         url: https://serverlessworkflow.io/docs/getting-started/
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/serverless-workflow
   - type: Website
     url: https://serverlessworkflow.io/
   - type: Documentation
