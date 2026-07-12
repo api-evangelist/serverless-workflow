@@ -30,6 +30,8 @@ apis:
       - type: GettingStarted
         url: https://serverlessworkflow.io/docs/getting-started/
 common:
+  - type: DomainSecurity
+    url: security/serverless-workflow-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/serverless-workflow
   - type: Website
@@ -38,6 +40,8 @@ common:
     url: https://serverlessworkflow.io/docs/
   - type: GitHubOrganization
     url: https://github.com/serverlessworkflow
+  - url: https://serverlessworkflow.io/blog
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
