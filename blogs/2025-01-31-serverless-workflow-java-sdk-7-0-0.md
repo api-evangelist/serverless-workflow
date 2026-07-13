@@ -1,8 +1,9 @@
 ---
-title: Serverless Workflow Java SDK 7.0.0
-url: https://serverlessworkflow.io/blog/releases/release-sdk-java-700/
-date: '2025-01-31'
-author: Francisco Javier Tirado Sarti
-feed_url: https://serverlessworkflow.io/rss.xml
+title: "Serverless Workflow Java SDK 7.0.0"
+url: "https://serverlessworkflow.io/blog/releases/release-sdk-java-700/"
+date: "2025-01-31"
+author: ""
+feed_url: "https://serverlessworkflow.io/blog"
 ---
-Heads up, community! We have released a new Java SDK version compatible with Specification 1.0.0.
+Announces Java SDK 7.0.0, compatible with Specification 1.0.0.
+
